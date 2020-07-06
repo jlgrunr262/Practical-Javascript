@@ -1,0 +1,10 @@
+{
+    "editor.tabSize": 2,
+    "editor.fontSize": 14,
+    "cSpell.words": [
+        "todos"
+    ],
+    "cSpell.ignoreWords": [
+        "todo"
+    ]
+}
